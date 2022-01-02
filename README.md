@@ -19,6 +19,8 @@ In order to run this project in the browser successfully, please follow the step
 ## Live Demo
 To view live demo please [click here](https://twitter-composer.herokuapp.com/).
 
+To view a video [click here](https://youtu.be/JbB5hxyEp7A).
+
 To view list of CI/CD workflows/pipelines [click here](https://github.com/zafar-saleem/twitter-composer/actions).
 
 To view list of all commits [click here](https://github.com/zafar-saleem/twitter-composer/commits/master).
