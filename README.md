@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+## Getting started
+In order to run this project in the browser successfully, please follow the steps below!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    1. Clone this repository.
+    2. cd into `twitter-composer` folder.
+    3. Run `yarn/npm install` command to download and install all dependencies.
+    4. To run this project use `yarn/npm dev` command in command line.
+    5. To build the project for production run `yarn/npm build` command. This will build the app for production and put all the files in `/build` folder.
+    6. To run production ready version of the app run `yarn start` command and go to `http://localhost:8080`.
 
-## Available Scripts
+## [Table of contents](https://github.com/zafar-saleem/twitter-composer/wiki)
 
-In the project directory, you can run:
+1. [Home](https://github.com/zafar-saleem/twitter-composer/wiki)
+2. [Getting Started](https://github.com/zafar-saleem/twitter-composer/wiki/Getting-started)
+3. [Git Workflow](https://github.com/zafar-saleem/twitter-composer/wiki/Git-Workflow)
+4. [Architecture](https://github.com/zafar-saleem/twitter-composer/wiki/Architecture)
+5. [DevOps](https://github.com/zafar-saleem/twitter-composer/wiki/DevOps)
 
-### `npm start`
+## Live Demo
+To view live demo please [click here](https://twitter-composer.herokuapp.com/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To view list of CI/CD workflows/pipelines [click here](https://github.com/zafar-saleem/twitter-composer/actions).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+To view list of all commits [click here](https://github.com/zafar-saleem/twitter-composer/commits/master).
 
-### `npm test`
+To view list of all branches [click here](https://github.com/zafar-saleem/twitter-composer/branches).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To view list of all pull requests [click here](https://github.com/zafar-saleem/twitter-composer/pulls).
 
-### `npm run build`
+To view git branch strategy [click here](https://swimlanes.io/u/rMwSwKIla).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+To view architecture diagram [click here](https://app.terrastruct.com/diagrams/1700407346#layer=15271970).
