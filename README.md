@@ -27,7 +27,7 @@ To view list of all commits [click here](https://github.com/zafar-saleem/twitter
 
 To view list of all branches [click here](https://github.com/zafar-saleem/twitter-composer/branches/all).
 
-To view list of all pull requests [click here](https://github.com/zafar-saleem/twitter-composer/pulls).
+To view list of all pull requests [click here](https://github.com/zafar-saleem/twitter-composer/pulls?q=is%3Apr+is%3Aclosed).
 
 To view git branch strategy [click here](https://swimlanes.io/u/rMwSwKIla).
 
