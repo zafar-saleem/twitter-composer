@@ -85,7 +85,7 @@ export const Message = ({ messages }) => {
 			}
 			{
 				messages.length === 0  && (
-					<StyledTypography>No Tweets Scheduled yet.</StyledTypography>
+					<StyledTypography>No Messages Scheduled yet.</StyledTypography>
 				)
 			}
 			<DeleteModal />
