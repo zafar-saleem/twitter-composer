@@ -25,7 +25,7 @@ To view list of CI/CD workflows/pipelines [click here](https://github.com/zafar-
 
 To view list of all commits [click here](https://github.com/zafar-saleem/twitter-composer/commits/master).
 
-To view list of all branches [click here](https://github.com/zafar-saleem/twitter-composer/branches).
+To view list of all branches [click here](https://github.com/zafar-saleem/twitter-composer/branches/all).
 
 To view list of all pull requests [click here](https://github.com/zafar-saleem/twitter-composer/pulls).
 
