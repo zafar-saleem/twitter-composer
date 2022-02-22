@@ -1,3 +1,6 @@
+## Description
+A sample project where users can add tweets and schedule them in future dates to be tweeted. This is front end only project that demonstrates the UI of the product. No backend is available yet. The scheduled tweets are listed in a Grid layout as Cards using Material UI. For more details please read the rest of the readme and wikipages. Please go through all of the links provided in this readme.
+
 ## Getting started
 In order to run this project in the browser successfully, please follow the steps below!
 
